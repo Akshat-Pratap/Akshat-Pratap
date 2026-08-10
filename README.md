@@ -16,11 +16,11 @@
 <img src="https://img.shields.io/badge/GitHub-Akshat--Pratap-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/akshat-pratap-33ap33/">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://leetcode.com">
+<a href="https://leetcode.com/u/AkshatPratap/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
