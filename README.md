@@ -240,3 +240,160 @@ solving and technical interview preparation.
                                   │
                                   ▼
                         AI + Cloud Systems
+
+
+
+
+```markdown
+---
+
+# 🧠 Problem Solving
+
+<div align="center">
+
+<img
+  src="https://leetcard.jacoblin.cool/AkshatPratap?theme=dark&font=Baloo&ext=heatmap"
+  width="500"
+  alt="LeetCode Statistics"
+/>
+
+</div>
+
+I practice Data Structures & Algorithms consistently in **C++** to
+improve algorithmic thinking, problem solving and technical interview
+skills.
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Akshat-Pratap&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+  height="180"
+  alt="GitHub Statistics"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Pratap&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  height="180"
+  alt="Top Languages"
+/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=Akshat-Pratap&theme=tokyonight&hide_border=true"
+  alt="GitHub Contribution Streak"
+/>
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/Akshat-Pratap/Akshat-Pratap/output/github-snake-dark.svg?v=2"
+  alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+| Area | Current Focus |
+|---|---|
+| 🐍 **Python** | Core Python → OOP → Advanced Python |
+| ⚙️ **Backend** | FastAPI → REST APIs → Databases |
+| 🐧 **Systems** | Linux → Networking → Processes |
+| 🐳 **Containers** | Docker → Containerized Applications |
+| ☁️ **Cloud** | Cloud Fundamentals → Deployment → Infrastructure |
+| 🤖 **AI / ML** | ML Fundamentals → Model Deployment |
+| 🧠 **Generative AI** | LLMs → AI APIs → RAG |
+| 🚀 **Future** | MLOps → AI Infrastructure |
+
+</div>
+
+---
+
+# 🎯 Current Goals
+
+- [x] Build consistency with Data Structures & Algorithms
+- [x] Build AI-powered projects
+- [ ] Become strong in Python
+- [ ] Master backend development
+- [ ] Strengthen Linux fundamentals
+- [ ] Learn networking fundamentals
+- [ ] Learn Docker & containerization
+- [ ] Build strong Cloud fundamentals
+- [ ] Learn Machine Learning properly
+- [ ] Deploy ML models
+- [ ] Explore Generative AI systems
+- [ ] Learn MLOps fundamentals
+- [ ] Contribute to Open Source
+- [ ] Secure a strong Software / Cloud / AI internship
+
+---
+
+# 💡 Engineering Philosophy
+
+<div align="center">
+
+### Build → Break → Understand → Fix → Improve
+
+</div>
+
+I believe the best way to learn technology is by building real systems,
+debugging failures, understanding why they fail and continuously
+improving them.
+
+---
+
+# 🤝 Let's Connect
+
+I'm interested in connecting with people working on:
+
+**AI • Cloud • Backend • Machine Learning • Open Source • Software Engineering**
+
+<div align="center">
+
+<a href="https://github.com/Akshat-Pratap">
+<img src="https://img.shields.io/badge/GitHub-Akshat--Pratap-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="YOUR_LEETCODE_URL">
+<img src="https://img.shields.io/badge/LeetCode-Connect-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<br/><br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=Akshat-Pratap&style=for-the-badge&label=PROFILE+VIEWS"
+  alt="Profile Views"
+/>
+
+<br/><br/>
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
