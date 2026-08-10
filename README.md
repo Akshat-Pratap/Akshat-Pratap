@@ -244,7 +244,7 @@ solving and technical interview preparation.
 
 
 
-```markdown
+```
 ---
 
 # 🧠 Problem Solving
