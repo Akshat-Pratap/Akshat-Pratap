@@ -11,12 +11,14 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Akshat-Pratap
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
@@ -27,3 +29,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          commit_message: "Update contribution snake"
