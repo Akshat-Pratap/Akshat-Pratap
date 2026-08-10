@@ -53,32 +53,27 @@ Intelligence, and Cloud Computing**.
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js" />
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript" />
 </p>
 
 ### ⚙️ Backend & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,mongodb,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,mongodb,react" />
 </p>
 
-### 🧰 Tools & Environment
+### 🔧 Tools & Environment
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode" />
 </p>
 
-### 🤖 AI
+### 🤖 AI & Generative AI
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+**Gemini API • Generative AI • AI APIs • AI-powered applications**
 
-**Currently exploring:** Generative AI • Machine Learning • AI APIs •
-Backend AI Integration
-
-> My current focus is becoming stronger in Python, backend engineering,
-> Linux, cloud infrastructure and AI systems.
+> Currently focusing on Python, backend engineering, Linux, cloud
+> fundamentals and practical AI systems.
 
 ---
 
@@ -96,13 +91,9 @@ Backend AI Integration
 AI-powered startup evaluation platform designed to analyze startup
 pitch decks and generate structured insights.
 
-### Highlights
+**Focus**
 
-- 📄 Pitch deck analysis
-- 📊 Startup viability scoring
-- 🔍 SWOT analysis
-- 🤖 Generative AI integration
-- 📈 Startup evaluation insights
+`AI` `Backend` `Generative AI`
 
 **Stack**
 
@@ -123,13 +114,9 @@ pitch decks and generate structured insights.
 Hospital / Smart Ward management system designed to organize patient
 and ward information through a centralized interface.
 
-### Highlights
+**Focus**
 
-- 🏥 Patient management
-- 🚨 Ward alerts
-- 🗂️ Centralized information
-- 🔐 Admin-based system
-- 📊 Hospital management workflow
+`Backend` `Database` `Management System`
 
 **Stack**
 
@@ -154,17 +141,13 @@ and ward information through a centralized interface.
 AI-powered interview preparation platform focused on resume analysis,
 interview preparation and personalized interview experiences.
 
-### Highlights
+**Focus**
 
-- 📄 Resume analysis
-- 🧠 AI-generated interview questions
-- 💬 Mock interview system
-- 📊 Interview analysis
-- 🎯 Personalized preparation
+`Python` `Backend` `Generative AI`
 
 **Stack**
 
-`Python` `FastAPI` `Gemini API`
+`FastAPI` `Gemini API`
 
 <br/>
 
@@ -185,10 +168,7 @@ interview preparation and personalized interview experiences.
 A continuously maintained collection of my Data Structures &
 Algorithms solutions written primarily in **C++**.
 
-The repository represents my ongoing commitment to consistent problem
-solving and technical interview preparation.
-
-### Focus
+**Focus**
 
 `DSA` `Algorithms` `Problem Solving` `C++`
 
@@ -207,81 +187,37 @@ solving and technical interview preparation.
 
 ---
 
-# 🧭 My Engineering Roadmap
+# 🧭 My Engineering Path
 
 <div align="center">
 
-```text
-                         SOFTWARE ENGINEERING
-                                  │
-                 ┌────────────────┴────────────────┐
-                 │                                 │
-                C++                              Python
-                 │                                 │
-                DSA                         Backend Development
-                 │                                 │
-                 └────────────────┬────────────────┘
-                                  │
-                         Systems Fundamentals
-                                  │
-                    ┌─────────────┴─────────────┐
-                    │                           │
-                  Linux                      Docker
-                    │                           │
-                    └─────────────┬─────────────┘
-                                  │
-                         Cloud Engineering
-                                  │
-                                  ▼
-                              AI / ML
-                                  │
-                                  ▼
-                           Generative AI
-                                  │
-                                  ▼
-                        AI + Cloud Systems
+### C++ / DSA → Python → Backend → Linux → Docker → Cloud → ML / GenAI → AI + Cloud Systems
 
+</div>
 
+My long-term goal is to build reliable backend and AI systems and
+eventually combine them with cloud infrastructure and ML/AI deployment.
 
-
-```
 ---
 
 # 🧠 Problem Solving
 
 <div align="center">
 
-<img
-  src="https://leetcard.jacoblin.cool/AkshatPratap?theme=dark&font=Baloo&ext=heatmap"
-  width="500"
-  alt="LeetCode Statistics"
-/>
+### 💻 Consistently solving Data Structures & Algorithms problems in C++
+
+**Focus:** Arrays • Strings • Hashing • Binary Search • Trees • Graphs • Dynamic Programming
+
+<br/>
+
+<a href="https://leetcode.com/u/AkshatPratap/">
+<img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 
 </div>
 
-I practice Data Structures & Algorithms consistently in **C++** to
-improve algorithmic thinking, problem solving and technical interview
-skills.
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Akshat-Pratap&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-  height="180"
-  alt="GitHub Statistics"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat-Pratap&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  height="180"
-  alt="Top Languages"
-/>
-
-</div>
+I use C++ for consistent DSA practice and technical interview preparation,
+with a focus on developing strong algorithmic thinking and problem-solving skills.
 
 ---
 
@@ -290,8 +226,8 @@ skills.
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=Akshat-Pratap&theme=tokyonight&hide_border=true"
-  alt="GitHub Contribution Streak"
+src="https://streak-stats.demolab.com?user=Akshat-Pratap&theme=tokyonight&hide_border=true"
+alt="GitHub Contribution Streak"
 />
 
 </div>
@@ -303,8 +239,8 @@ skills.
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/Akshat-Pratap/Akshat-Pratap/output/github-snake-dark.svg?v=2"
-  alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/Akshat-Pratap/Akshat-Pratap/output/github-snake-dark.svg?v=2"
+alt="GitHub Contribution Snake"
 />
 
 </div>
@@ -358,8 +294,7 @@ skills.
 </div>
 
 I believe the best way to learn technology is by building real systems,
-debugging failures, understanding why they fail and continuously
-improving them.
+debugging failures, understanding why they fail and continuously improving them.
 
 ---
 
@@ -375,19 +310,19 @@ I'm interested in connecting with people working on:
 <img src="https://img.shields.io/badge/GitHub-Akshat--Pratap-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/akshat-pratap-33ap33/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/AkshatPratap/">
 <img src="https://img.shields.io/badge/LeetCode-Connect-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <br/><br/>
 
 <img
-  src="https://komarev.com/ghpvc/?username=Akshat-Pratap&style=for-the-badge&label=PROFILE+VIEWS"
-  alt="Profile Views"
+src="https://komarev.com/ghpvc/?username=Akshat-Pratap&style=for-the-badge&label=PROFILE+VIEWS"
+alt="Profile Views"
 />
 
 <br/><br/>
